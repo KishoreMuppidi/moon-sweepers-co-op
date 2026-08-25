@@ -1,0 +1,11 @@
+# Configuration for git attributes
+# Default behavior 
+*.svg text
+
+package-lock.json linguist-generated
+src/**/*.js linguist-detectable
+dist/* linguist-vendored
+*.js linguist-detectable
+
+public/**/*.html linguist-vendored
+# eof 2a5c4547
