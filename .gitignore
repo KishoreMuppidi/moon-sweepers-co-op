@@ -1,0 +1,9 @@
+coverage/
+.next/
+build/
+.cache/
+*.tgz
+*.log
+dist/
+yarn-error.log*
+_site/
